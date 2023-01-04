@@ -3,3 +3,5 @@
 ### Tech Stack:- HTML, CSS
 
 Landing Page built while learning through The Odin Project
+
+Github pages link:- https://innomer.github.io/odin-landing-page
